@@ -6,6 +6,7 @@
 
 def happy_birthday(birthday_kids)
   birthday_kids.each do |key, value|
+    p
   end
 end
 
